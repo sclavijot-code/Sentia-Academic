@@ -1,0 +1,19 @@
+# ============================================================
+# requirements.txt — Sistema de Monitoreo del Bienestar Académico
+# ============================================================
+# Instalación completa:
+#   pip install -r requirements.txt
+# ============================================================
+
+# Framework web interactivo
+streamlit>=1.32.0
+
+# NLP optimizado para español (incluye RoBERTuito)
+pysentimiento>=0.7.0
+
+# Backend de deep learning para los modelos Transformer
+torch>=2.1.0
+
+# Tokenizadores de Hugging Face (dependencia de pysentimiento)
+transformers>=4.38.0
+sentencepiece>=0.1.99
