@@ -154,7 +154,7 @@ Descarga este repositorio mediante:
 - o usando:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/sclavijot-code/Sentia-Academic.git>
 ```
 
 Luego abre la carpeta del proyecto.
